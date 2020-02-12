@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ControladorJuego.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControladorTubos.cs" Line="65" Column="44" />
+      <File FileName="Assets/Scripts/ControladorPajaro.cs" Line="105" Column="32" />
+      <File FileName="Assets/Scripts/ControladorJuego.cs" Line="95" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
